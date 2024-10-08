@@ -1,1 +1,1 @@
-# 02-Starting-Project
+# practice golang
